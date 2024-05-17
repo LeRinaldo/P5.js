@@ -3,7 +3,7 @@ let circuloX; // horizontal
 let circuloY; // vertical
 
 function setup() {
-  createCanvas(400, 600); // width x height
+  createCanvas(700, 600); // width x height
   
   //definir cor de fundo
   background(color(70,90,60));
